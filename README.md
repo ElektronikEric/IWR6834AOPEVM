@@ -1,4 +1,4 @@
-# IWR6843AOP mmWave Radar – 3D People Tracking Visualizer
+# IWR6843AOPEVM mmWave Radar – 3D People Tracking Visualizer
 
 Ein Python-basiertes Live-Visualisierungssystem für die Texas Instruments IWR6843AOP mmWave Radar-Plattform zur Personenerkennung und Verfolgung in Innenräumen.
 
