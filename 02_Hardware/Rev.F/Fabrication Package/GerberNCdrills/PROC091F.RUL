@@ -1,0 +1,17 @@
+DRC Rules Export File for PCB: D:\Project\60Ghz_AOP\07_Hardware\Design\LLD_Schematics\60GHz_AOP\REV_F\xWR6843AOPEVM\PROC091F.PcbDoc
+RuleKind=Clearance|RuleName=INNERlayer|Scope=Board|Minimum=8.00
+RuleKind=Width|RuleName=RF|Scope=Board|Minimum=5.50
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=3.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing_ThermalPadVias|Scope=Board|Minimum=3.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Clearance|RuleName=SAME NET|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=1.00
+RuleKind=Clearance|RuleName=50E_INNERlayer|Scope=Board|Minimum=4.20
+RuleKind=Clearance|RuleName=100E|Scope=Board|Minimum=8.00
+RuleKind=Clearance|RuleName=AOP_Sig|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=AOP_T-B|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=90E_OUTSIDE|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=RF_TRACE|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Keepout|Scope=Board|Minimum=0.01
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00

@@ -1,0 +1,15 @@
+
+
+   ---- Transcoding 'D:\Project\60Ghz_AOP\07_Hardware\Design\LLD_Schematics\60GHz_AOP\EVM_Compliance\From Mistral\11Nov20\PROC091\3 - Fabrication D\GerberNCdrills\PROC091F-RoundHoles.TXT' ----   Thu Nov 12 06:35:36 2020
+
+T10  --> T5
+T11  --> T10
+T12  --> T11
+T13  --> T12
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'D:\Project\60Ghz_AOP\07_Hardware\Design\LLD_Schematics\60GHz_AOP\EVM_Compliance\From Mistral\11Nov20\PROC091\3 - Fabrication D\GerberNCdrills\PROC091F-SlotHoles.TXT' ----   Thu Nov 12 06:35:36 2020
+
+T5   --> T13
+-----------------------------------------------------------------

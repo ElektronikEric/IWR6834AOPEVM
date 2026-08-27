@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Project\60Ghz_AOP\07_Hardware\Design\LLD_Schematics\60GHz_AOP\REV_F\xWR6843AOPEVM\PROC091F.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=proc091f-roundholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=proc091f-slotholes.txt|DrillLayers=gtl,g1,g2,g3,g4,g5,g6,gbl
