@@ -37,6 +37,7 @@ python 3.8 oder höher
 matplotlib >= 3.5.0
 numpy >= 1.20.0
 pyserial >= 3.5
+´´´
 
 ## Lizenz
 Dieses Projekt steht unter der [MIT-Lizenz](./IWR6843AOPEVM_LICENSE).
